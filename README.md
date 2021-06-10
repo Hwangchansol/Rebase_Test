@@ -4,3 +4,4 @@
 2. Edit from GitHub
 3. branch
   - /: OK
+  - checkout
